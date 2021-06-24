@@ -1,6 +1,6 @@
 # Hi there, nice to e-meet you 👋
 
-I'm a **Software engineering manager** with multiple years of experience in multiple industries across multiple countries (🇿🇦🇦🇪🇲🇾). Though I don't get time to actively code in my day-to-day role, I still love to tinker around and work on some personal projects. 
+I'm a **Software engineering manager** with multiple years of experience in multiple industries across multiple countries (🇿🇦🇦🇪🇲🇾). I might not get time to actively code in my day-to-day role anymore, but I still love to tinker around and work on some personal projects and scripts for hacking or my homelab. 
 
 # 🛠 I'm currently working on ...
 
