@@ -23,9 +23,7 @@ I'm a **Software engineering manager** with multiple years of experience in mult
 
 ## 🏴‍☠️ CTF Platforms
 
-[![superunknown](https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg)](https://tryhackme.com/p/superunknown)
-
-### [SuperUnknown](https://tryhackme.com/p/superunknown)
+### [🏚 TryHackMe: SuperUnknown](https://tryhackme.com/p/superunknown)
 
 | Level | Status |
 | ---------------- | :------: |
@@ -36,8 +34,7 @@ I'm a **Software engineering manager** with multiple years of experience in mult
 | 0xC [Guru] |
 | 0x0 [God]	|
 
-[![superunknown](https://app.hackthebox.eu/images/logos/logo-htb.svg)](https://app.hackthebox.eu/profile/354808)
-### [superunknown]()
+### [💻 Hack The Box: superunknown](https://app.hackthebox.eu/profile/354808)
 
 | Rank | Status |
 | ---------------- | :------: |
