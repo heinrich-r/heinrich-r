@@ -6,10 +6,10 @@ A **Software & Cybersecurity enthusiast** with a few years of experience across 
 
 ## Public projects
 
-| Project | Description |  Status |
-| ---- | ---- | :--------------: |
-| [**ultimate-library**](https://github.com/rubigo-za/ultimate-library) | Collection of resources related to all things IT |  In Progress 🛠 |
-| [**devops-toolbox**](https://github.com/rubigo-za/devops-toolbox) | Collection of scripts/commands for frequent devops tasks |  In Progress 🛠 |
+| Project | Description | Framework|  Status |
+| ---- | ---- | ---- | :--------------: |
+| [**ultimate-library**](https://github.com/rubigo-za/ultimate-library) | Collection of resources related to all things IT | Resources |  In Progress 🛠 |
+| [**devops-toolbox**](https://github.com/rubigo-za/devops-toolbox) | Collection of scripts/commands for frequent devops tasks | Bash |  In Progress 🛠 |
 
 
 ## Private projects
@@ -60,4 +60,4 @@ A **Software & Cybersecurity enthusiast** with a few years of experience across 
 
 # 🎵 I’m currently listening to ...
 
-[<img src="assets/playlist-spotify.png">](https://open.spotify.com/playlist/1IWFs3Fas2WOw3qdtnerbK?si=fc3f06464f1a494e)
+[<img src="assets/playlist-spotify.png" height=150>](https://open.spotify.com/playlist/1IWFs3Fas2WOw3qdtnerbK?si=fc3f06464f1a494e)
