@@ -1,6 +1,9 @@
-# Hi there, nice to e-meet you 👋
+# Hi there, nice to e-meet you 👋 [<a href="https://www.linkedin.com/in/heinrich-r-27504651/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="heinrich-r" height="30" width="40" /></a><a href="https://twitter.com/superunknown_gg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="superunknown_gg" height="30" width="40" /></a>]
 
 A **Software & Cybersecurity enthusiast** with a few years of experience across multiple countries (🇿🇦🇦🇪🇲🇾). Not getting a lot of time to actively code in my day-to-day role, but I still love to tinker around and work on some personal projects and scripts. 
+
+[Feel like buying me a beer?🍻](https://www.buymeacoffee.com/superunknown)
+
 
 # 🛠 I'm currently working on ...
 
